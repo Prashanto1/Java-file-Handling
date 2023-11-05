@@ -1,3 +1,5 @@
+package Reading;
+
 import java.io.InputStreamReader;
 import java.io.IOException;
 public class ReadingCharByChar {
